@@ -2,32 +2,35 @@
 
 **Software developer and systems administrator · Nairobi, Kenya**
 
-I build business applications and support the people using them. My experience spans Microsoft 365 administration, remote-team onboarding, troubleshooting, and business-system implementation.
+I build business applications and help teams keep their everyday systems working. My experience combines full-stack development, Microsoft 365 administration, email support and business-system implementation.
 
-At Rockhill Advisors, I developed timesheet and approval workflows alongside my systems administration work. Earlier, at Panache Technohub, I developed an e-commerce platform and supported Microsoft Dynamics 365 Business Central customisation, testing and rollout.
+At Rockhill Advisors, I developed Timesheet Pro and supported remote staff with onboarding, accounts, devices and email issues. Earlier, at Panache Technohub, I built an e-commerce platform and supported Microsoft Dynamics 365 Business Central customisation and rollout.
 
-## Selected work
+## Selected projects
 
-| Example | What to explore |
+| Project | My contribution |
 | --- | --- |
-| [Timesheet Pro](https://github.com/haurezbrian/work-portfolio/blob/main/case-studies/timesheet-pro.md) | PHP, WordPress REST APIs and React for time capture, proof requirements and approval workflows. |
-| [Orvane staff workspace](https://github.com/haurezbrian/work-portfolio/blob/main/case-studies/orvane.md) | React, FastAPI and PostgreSQL for project workflows, authenticated access and audit records. Pre-release. |
-| [WordPress implementation](https://github.com/haurezbrian/work-portfolio/blob/main/case-studies/wordpress-implementation.md) | Elementor pages, a WooCommerce catalogue, quotation selections and an owner editing guide. Pre-launch. |
-| [Calendar integration support scenario](https://github.com/haurezbrian/work-portfolio/blob/main/support/calendar-integration-scenario.md) | A fictional worked example covering investigation, customer communication and escalation. |
+| [Timesheet Pro](https://github.com/haurezbrian/work-portfolio/blob/main/case-studies/timesheet-pro.md) | Developed time-entry, proof-checking and approval workflows with PHP, WordPress REST APIs and React. |
+| [Orvane staff workspace](https://github.com/haurezbrian/work-portfolio/blob/main/case-studies/orvane.md) | Built frontend and backend project workflows with React, FastAPI, PostgreSQL and Keycloak. |
+| [Afri Roofing & Flooring](https://github.com/haurezbrian/work-portfolio/blob/main/case-studies/wordpress-implementation.md) | Configured a WordPress website and product catalogue, built quotation selections and prepared the owner editing guide. |
 
-These are public project summaries and a practice scenario. Application source code remains private; release status is stated in each case study.
+## Technical support
 
-## Skills and experience
+My support work includes Outlook/server synchronisation issues, user creation, account resets and email/calendar troubleshooting across Microsoft 365, Gmail/Google Calendar and Apple Mail/iCloud.
 
-- **Support and systems:** Microsoft 365, Windows Server, account provisioning, remote user support, networking and troubleshooting.
-- **Development:** React, JavaScript/TypeScript, Node.js, PHP and PostgreSQL; Python/FastAPI in recent project work.
-- **Business applications:** Timesheet and approval workflows, Oracle MICROS Simphony configuration, and Business Central implementation support.
-- **Websites and handover:** WordPress, Elementor, WooCommerce, Wix and instructions for site owners.
+[Read my calendar synchronisation troubleshooting guide](https://github.com/haurezbrian/work-portfolio/blob/main/support/calendar-integration-scenario.md) for a structured approach to investigating connection problems, communicating with users and checking the result.
+
+## Tools and experience
+
+- **Development:** React, JavaScript/TypeScript, Node.js, PHP, PostgreSQL and Python/FastAPI.
+- **Systems:** Microsoft 365, Windows Server, account administration, remote support and networking.
+- **Business applications:** Timesheet workflows, Oracle MICROS Simphony configuration and Business Central implementation support.
+- **Websites:** WordPress, Elementor, WooCommerce, Wix and site-owner documentation.
 
 Diploma in Software Engineering, Zetech University, 2017–2019.
 
-## Contact
+## Get in touch
 
-Open to software development, application support and technical support opportunities in Kenya and remote teams hiring in Kenya.
+Open to software development, application support and technical support roles in Kenya and remote teams hiring in Kenya.
 
-[Email me](mailto:haurezbrian@gmail.com) · [Explore my work portfolio](https://github.com/haurezbrian/work-portfolio)
+[Email me](mailto:haurezbrian@gmail.com) · [Explore my portfolio](https://github.com/haurezbrian/work-portfolio)
