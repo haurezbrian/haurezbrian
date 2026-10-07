@@ -1,36 +1,54 @@
 # Brian Karanja
 
-**Software developer and systems administrator · Nairobi, Kenya**
+### Full-Stack Developer · Systems Administrator
 
-I build business applications and help teams keep their everyday systems working. My experience combines full-stack development, Microsoft 365 administration, email support and business-system implementation.
+I design and build business applications, integrate the systems behind them, and support the people who use them.
 
-At Rockhill Advisors, I developed Timesheet Pro and supported remote staff with onboarding, accounts, devices and email issues. Earlier, at Panache Technohub, I built an e-commerce platform and supported Microsoft Dynamics 365 Business Central customisation and rollout.
+My work spans workforce management, solar-project operations, property discovery, e-commerce and travel. Alongside development, I've administered Microsoft 365 and Windows Server, supported remote teams, and implemented hospitality networks and business systems.
 
-## Selected projects
+**Nairobi, Kenya** · [Email](mailto:haurezbrian@gmail.com) · [Project portfolio](https://github.com/haurezbrian/work-portfolio)
 
-| Project | My contribution |
-| --- | --- |
-| [Timesheet Pro](https://github.com/haurezbrian/work-portfolio/blob/main/case-studies/timesheet-pro.md) | Developed time-entry, proof-checking and approval workflows with PHP, WordPress REST APIs and React. |
-| [Orvane staff workspace](https://github.com/haurezbrian/work-portfolio/blob/main/case-studies/orvane.md) | Built frontend and backend project workflows with React, FastAPI, PostgreSQL and Keycloak. |
-| [Afri Roofing & Flooring](https://github.com/haurezbrian/work-portfolio/blob/main/case-studies/wordpress-implementation.md) | Configured a WordPress website and product catalogue, built quotation selections and prepared the owner editing guide. |
+## Selected work
 
-## Technical support
+| Project | What I built | Technologies |
+| --- | --- | --- |
+| [Timesheet Pro](https://github.com/haurezbrian/work-portfolio/blob/main/case-studies/timesheet-pro.md) | Time entry, supporting-proof checks, approval workflows and payroll preparation | React, PHP, WordPress REST APIs |
+| [Orvane Energy](https://github.com/haurezbrian/work-portfolio/blob/main/case-studies/orvane.md) | Staff and solar-project workflows covering assessments, proposals and installation handover | React, FastAPI, PostgreSQL, Keycloak |
+| [Seraphim / Pemerton Realty](https://github.com/haurezbrian/work-portfolio/blob/main/case-studies/seraphim.md) | Property search, map/list views, comparison and a connected editorial catalogue | React, TypeScript, Fastify, PostGIS |
+| [Dainty Divas](https://github.com/haurezbrian/work-portfolio/blob/main/case-studies/dainty.md) | Storefront, cart, guest checkout, delivery selection and payment-state handling | React, TypeScript, Vendure, Paystack |
+| [Carnova](https://github.com/haurezbrian/work-portfolio/blob/main/case-studies/carnova.md) | Travel discovery, trip planning and request submission connected to backend services | NestJS, Fastify, PostgreSQL |
+| [Afri Roofing & Flooring](https://github.com/haurezbrian/work-portfolio/blob/main/case-studies/wordpress-implementation.md) | Business website, product catalogue, quotation selections and owner editing guide | WordPress, Elementor, WooCommerce |
 
-My support work includes Outlook/server synchronisation issues, user creation, account resets and email/calendar troubleshooting across Microsoft 365, Gmail/Google Calendar and Apple Mail/iCloud.
+<details>
+<summary>See project interfaces</summary>
 
-[Read my calendar synchronisation troubleshooting guide](https://github.com/haurezbrian/work-portfolio/blob/main/support/calendar-integration-scenario.md) for a structured approach to investigating connection problems, communicating with users and checking the result.
+**Seraphim / Pemerton — property discovery**
 
-## Tools and experience
+![Seraphim property search interface](https://raw.githubusercontent.com/haurezbrian/work-portfolio/main/assets/seraphim-home.png)
 
-- **Development:** React, JavaScript/TypeScript, Node.js, PHP, PostgreSQL and Python/FastAPI.
-- **Systems:** Microsoft 365, Windows Server, account administration, remote support and networking.
-- **Business applications:** Timesheet workflows, Oracle MICROS Simphony configuration and Business Central implementation support.
-- **Websites:** WordPress, Elementor, WooCommerce, Wix and site-owner documentation.
+**Timesheet Pro — weekly time entry**
 
-Diploma in Software Engineering, Zetech University, 2017–2019.
+![Timesheet Pro weekly interface using sample records](https://raw.githubusercontent.com/haurezbrian/work-portfolio/main/assets/timesheet-week.png)
 
-## Get in touch
+</details>
 
-Open to software development, application support and technical support roles in Kenya and remote teams hiring in Kenya.
+## Systems and technical support
 
-[Email me](mailto:haurezbrian@gmail.com) · [Explore my portfolio](https://github.com/haurezbrian/work-portfolio)
+At **Rockhill Advisors**, I combined systems administration with application development. I supported remote customer-care and data-entry teams with onboarding, devices, accounts and everyday technical issues.
+
+- **Email and access:** Microsoft 365 administration, Outlook/server synchronisation, user creation, account resets, and Gmail/Google Calendar and Apple Mail/iCloud troubleshooting.
+- **Infrastructure:** Windows Server, Netgate/pfSense, managed switches, Wi-Fi, structured cabling and NVR-based CCTV.
+- **Business systems:** Oracle MICROS Simphony configuration and Microsoft Dynamics 365 Business Central customisation, testing and rollout support.
+
+[Read about my systems and implementation work](https://github.com/haurezbrian/work-portfolio/blob/main/case-studies/systems-and-implementation.md)
+
+## Development toolkit
+
+**Frontend:** React · TypeScript · JavaScript  
+**Backend and data:** Node.js · Express · Fastify · Python/FastAPI · PHP · PostgreSQL · PostGIS  
+**Delivery and testing:** Git · Docker Compose · GitHub Actions · Vitest · Playwright  
+**Web platforms:** WordPress · Elementor · WooCommerce · Wix
+
+Diploma in Software Engineering — **Zetech University, 2017–2019**.
+
+Open to software development, application support and systems roles in Kenya and remote teams hiring in Kenya.
